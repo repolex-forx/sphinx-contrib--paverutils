@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/sphinx-contrib/paverutils/commit/5e94ec59ffa5ae3fd0bff99c0389c3349ae42263",
       "git:hexsha": "5e94ec59ffa5ae3fd0bff99c0389c3349ae42263",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-06T17:43:49.253262+00:00"
     },
     {
       "@id": "https://repolex.ai/r/sphinx-contrib/paverutils/commit/98805909bfe40b64da37feef71391b2898122562",
